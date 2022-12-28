@@ -1,8 +1,5 @@
 # ezfarf
-A simple command-line farfallino-italian and vice versa translator.
-Il mio primo progetto in Haskell. Usando due semplicissime funzioni, permette all'utente di prendere in input una frase in italiano e tradurla in farfallino o viceversa
-
-
+Un semplice tradutorre italiano-farfallino e viceversa.
 
 ### Farfallino?
 
